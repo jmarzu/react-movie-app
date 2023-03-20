@@ -1,0 +1,28 @@
+.selected-viewer {
+    padding: 1rem 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 425px;
+
+    .selected-image {
+        width: 15rem;
+    }
+
+    .chevron {
+        font-size: 24px;
+        font-weight: bold;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}
+
+.selection-container {
+    overflow: scroll;
+}
+
+.selection-img {
+    width: 5rem;
+}

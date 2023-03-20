@@ -1,0 +1,22 @@
+img {
+    position: absolute;
+}
+
+.card-image {
+    width: 15rem;
+}
+
+.card-image:hover {
+    opacity: .75;
+}
+
+.copy {
+    color: white;
+    position: absolute;
+    top: 0;
+    opacity: 0;
+}
+
+.copy:hover {
+    opacity: 1;
+}

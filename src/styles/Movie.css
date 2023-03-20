@@ -1,0 +1,16 @@
+.title {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.row-image {
+    width: 9rem;
+}
+
+.spinner-border {
+    margin-right: .5rem;
+}
+
+td {
+    width: 1%;
+}
